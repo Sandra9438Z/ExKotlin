@@ -10,4 +10,4 @@ fun main() {
 
         // Do not touch the lines below
         print("$a $b")
-}   
+}
