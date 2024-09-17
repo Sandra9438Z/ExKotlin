@@ -9,5 +9,7 @@ fun main() {
     val breadFromSam = readln()
 
     // write your code here
+    totalLembas(first = breadFromSam, second = breadFromFrodo)
+
 
 }
