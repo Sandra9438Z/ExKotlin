@@ -1,9 +1,9 @@
 // write your function here
 fun isGreater(number1: Int, number2: Int, number3: Int, number4: Int): Boolean {
-    if(number1+number2 < number3+number4){
-        return false
+    return if(number1+number2 < number3+number4){
+        false
     } else{
-        return true
+        true
     }
 }
 fun main() {

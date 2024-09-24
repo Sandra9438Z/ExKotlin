@@ -4,4 +4,8 @@ fun main() {
     println(timer.time)
 }
 
-class ByteTimer(var time: Int) {}
+class ByteTimer(var time: Int) {
+    init {
+        
+    }
+}
